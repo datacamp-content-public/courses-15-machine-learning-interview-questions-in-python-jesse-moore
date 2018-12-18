@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Understanding Your Data'
 description: 'Chapter description goes here.'
 ---
 
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Handling Time Series Data
+
+```yaml
+type: VideoExercise
+key: 6baa06f0f9
+xp: 50
+```
+
+`@projector_key`
+043ea510d97468d9de9662eddff29a67
