@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Handling Time Series Data
+## Question 7: Handling and Preparing Time Series Data for Training
 
 ```yaml
 type: VideoExercise
